@@ -50,10 +50,10 @@ const Home = () => {
         <br />
         <h3 className='text-2xl font-serif text-center sm:text-xl md:text-2xl break-words'>
   I'm a Full Stack Web Developer with experience building websites from scratch,<br/>
-  proficient in both front-end and back-end. Eager to learn and apply new technologies.
+  proficient in both front-end and back-end, Eager to learn and apply new technologies.
 </h3>
         <br />
-        <button
+        <button 
           onClick={() => { navgaite("/Projects") }}
           className='bg-amber-500 text-xl sm:text-2xl text-black font-mono py-3 px-12'
         >
